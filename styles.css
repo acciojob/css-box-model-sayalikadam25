@@ -2,8 +2,8 @@
 /* Your CSS Code here. */
 .demo{
 	padding: 50px;
-	border: 15px solid blue;
+	border: 15px solid rgb(0, 0, 255);
 	margin: 20px;
 	width:300px;
-	background-color: lightblue;
+	background-color: rgb(173, 216, 230);
 }
